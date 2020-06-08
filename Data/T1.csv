@@ -1,0 +1,14 @@
+# Note that missing values are denoted by a -
+Col1, Col2, Col3
+4,5,7
+22,-,9
+11,3,-
+5, 10, 1
+10, 2, 3
+1,3, 4
+9, 0, 1
+90, 10, 9
+22, 10, 9
+10, 9, 10
+
+
